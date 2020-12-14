@@ -1,0 +1,3670 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Rubik:400,700,500");
+* {
+  box-sizing: border-box;
+}
+.border-class-3 {
+  border: 2px solid var(--red-orange);
+}
+.border-class-4 {
+  border: 2px solid var(--alto);
+}
+.border-class-5 {
+  border: 1.9px solid var(--gallery);
+}
+.border-class-6 {
+  border: 1.9px solid rgba(226, 226, 226, 1);
+}
+.border-class-7 {
+  border: 1.9px solid rgba(247, 247, 247, 1);
+}
+.landingpage {
+  background-color: white;
+  height: 5189px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+  margin-left: 210px;
+}
+.landingpage .about-1290 {
+  background-color: transparent;
+  height: auto;
+  left: 456px;
+  letter-spacing: 0px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.landingpage .about-1290:hover {
+  opacity: 80%;
+}
+.landingpage .about-us-168 {
+  background-color: transparent;
+  height: auto;
+  left: 920px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 4979px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .about-us-168:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .affiliate-174 {
+  background-color: transparent;
+  height: auto;
+  left: 1169px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 4859px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .affiliate-174:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .ant-design-tar-filled-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 16px;
+  justify-content: flex-start;
+  left: 424px;
+  padding: 1.1px 1.4px;
+  position: absolute;
+  top: 4137px;
+  width: 16px;
+}
+.landingpage .ant-design-tar-filled-VMr6Om {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 16px;
+  justify-content: flex-start;
+  left: 874px;
+  padding: 1.1px 1.4px;
+  position: absolute;
+  top: 4137px;
+  width: 16px;
+}
+.landingpage .ant-design-tar-filled-mzXdH9 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 16px;
+  justify-content: flex-start;
+  left: 1324px;
+  padding: 1.1px 1.4px;
+  position: absolute;
+  top: 4137px;
+  width: 16px;
+}
+.landingpage .become-partner-175 {
+  background-color: transparent;
+  height: auto;
+  left: 1169px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 4899px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .become-partner-175:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .blog-162 {
+  background-color: transparent;
+  height: auto;
+  left: 720px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5059px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .blog-162:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .button-subscribe-now {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 85px;
+  margin-left: 338px;
+  margin-top: 25.29px;
+  position: relative;
+  width: 250px;
+}
+.landingpage .buttonsignup {
+  align-items: center;
+  background-color: transparent;
+  border: 1px solid var(--sizzling-red);
+  border-radius: 50px;
+  display: inline-flex;
+  flex-direction: row;
+  height: 45px;
+  justify-content: flex-end;
+  left: 1140px;
+  min-width: 150px;
+  padding: 0 43px;
+  position: absolute;
+  top: 46px;
+  width: auto;
+}
+.landingpage .bxbxs-check-circle-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 862px;
+  padding: 0 2px;
+  position: absolute;
+  top: 1218px;
+  width: 24px;
+}
+.landingpage .bxbxs-check-circle-QxM5SU {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 862px;
+  padding: 0 2px;
+  position: absolute;
+  top: 1353px;
+  width: 24px;
+}
+.landingpage .bxbxs-check-circle-VMr6Om {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 862px;
+  padding: 0 2px;
+  position: absolute;
+  top: 1263px;
+  width: 24px;
+}
+.landingpage .bxbxs-check-circle-mzXdH9 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 862px;
+  padding: 0 2px;
+  position: absolute;
+  top: 1308px;
+  width: 24px;
+}
+.landingpage .bxbxs-server {
+  background-color: transparent;
+  height: 24px;
+  left: 1052px;
+  position: absolute;
+  top: 753px;
+  width: 24px;
+}
+.landingpage .choose-your-plan-122 {
+  background-color: transparent;
+  height: auto;
+  left: 528px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 1587px;
+  white-space: nowrap;
+  width: 385px;
+}
+.landingpage .connect-anyware-1370 {
+  background-color: transparent;
+  height: auto;
+  left: 669px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2272px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .connect-anyware-1396 {
+  background-color: transparent;
+  height: auto;
+  left: 1049px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2272px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .countries-161 {
+  background-color: transparent;
+  height: auto;
+  left: 720px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5019px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .countries-161:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .download-157 {
+  background-color: transparent;
+  height: auto;
+  left: 720px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 4859px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .download-157:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .earn-money-173 {
+  background-color: transparent;
+  height: auto;
+  left: 1169px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 4809px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .earn-money-173:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .ellipse-172 {
+  background-color: transparent;
+  height: 15px;
+  left: 130px;
+  position: absolute;
+  top: 4402px;
+  width: 15px;
+}
+.landingpage .ellipse-173 {
+  background-color: transparent;
+  height: 15px;
+  left: 160px;
+  position: absolute;
+  top: 4402px;
+  width: 15px;
+}
+.landingpage .ellipse-174 {
+  background-color: transparent;
+  height: 15px;
+  left: 190px;
+  position: absolute;
+  top: 4402px;
+  width: 15px;
+}
+.landingpage .ellipse-175-C61RwL {
+  background-color: transparent;
+  height: 50px;
+  left: 100px;
+  position: absolute;
+  top: 4120px;
+  width: 50px;
+}
+.landingpage .ellipse-175-VMr6Om {
+  background-color: transparent;
+  height: 50px;
+  left: 550px;
+  position: absolute;
+  top: 4120px;
+  width: 50px;
+}
+.landingpage .ellipse-175-mzXdH9 {
+  background-color: transparent;
+  height: 50px;
+  left: 1000px;
+  position: absolute;
+  top: 4120px;
+  width: 50px;
+}
+.landingpage .ellipse-176 {
+  background-color: transparent;
+  height: 34px;
+  left: 150px;
+  pointer-events: auto;
+  position: absolute;
+  top: 4967px;
+  transition: all 0.2s ease;
+  width: 34px;
+}
+.landingpage .ellipse-176:hover {
+  cursor: pointer;
+}
+.landingpage .ellipse-177 {
+  background-color: transparent;
+  height: 34px;
+  left: 204px;
+  pointer-events: auto;
+  position: absolute;
+  top: 4967px;
+  transition: all 0.2s ease;
+  width: 34px;
+}
+.landingpage .ellipse-177:hover {
+  cursor: pointer;
+}
+.landingpage .ellipse-178 {
+  background-color: transparent;
+  height: 50px;
+  left: 250px;
+  pointer-events: auto;
+  position: absolute;
+  top: 4960px;
+  transition: all 0.2s ease;
+  width: 50px;
+}
+.landingpage .ellipse-178:hover {
+  cursor: pointer;
+}
+.landingpage .ellipse-179-00LGpa {
+  background-color: transparent;
+  height: 20px;
+  left: 460px;
+  position: absolute;
+  top: 3028px;
+  width: 20px;
+}
+.landingpage .ellipse-179-2P4qUJ {
+  background-color: transparent;
+  height: 43px;
+  left: 755px;
+  position: absolute;
+  top: 3312px;
+  width: 43px;
+}
+.landingpage .ellipse-179-3kIbHG {
+  background-color: transparent;
+  height: 21px;
+  left: 608px;
+  position: absolute;
+  top: 3045px;
+  width: 21px;
+}
+.landingpage .ellipse-179-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 1003px;
+  position: absolute;
+  top: 3381px;
+  width: 21px;
+}
+.landingpage .ellipse-179-HlKRTo {
+  background-color: transparent;
+  height: 34px;
+  left: 846px;
+  position: absolute;
+  top: 3146px;
+  width: 34px;
+}
+.landingpage .ellipse-179-J1YQmd {
+  background-color: transparent;
+  height: 26px;
+  left: 1182px;
+  position: absolute;
+  top: 3114px;
+  width: 26px;
+}
+.landingpage .ellipse-179-JNxCmP {
+  background-color: transparent;
+  height: 26px;
+  left: 309px;
+  position: absolute;
+  top: 3114px;
+  width: 26px;
+}
+.landingpage .ellipse-179-K0Quix {
+  background-color: transparent;
+  height: 26px;
+  left: 469px;
+  position: absolute;
+  top: 3347px;
+  width: 26px;
+}
+.landingpage .ellipse-179-MGnoC8 {
+  background-color: transparent;
+  height: 17px;
+  left: 559px;
+  position: absolute;
+  top: 3390px;
+  width: 17px;
+}
+.landingpage .ellipse-179-NVuCL2 {
+  background-color: transparent;
+  height: 37px;
+  left: 350px;
+  position: absolute;
+  top: 3175px;
+  width: 37px;
+}
+.landingpage .ellipse-179-NjZa5V {
+  background-color: transparent;
+  height: 26px;
+  left: 385px;
+  position: absolute;
+  top: 3123px;
+  width: 26px;
+}
+.landingpage .ellipse-179-QL5zbd {
+  background-color: transparent;
+  height: 20px;
+  left: 988px;
+  position: absolute;
+  top: 3246px;
+  width: 20px;
+}
+.landingpage .ellipse-179-QxM5SU {
+  background-color: transparent;
+  height: 26px;
+  left: 664px;
+  position: absolute;
+  top: 3298px;
+  width: 26px;
+}
+.landingpage .ellipse-179-R7WrHk {
+  background-color: transparent;
+  height: 15px;
+  left: 924px;
+  position: absolute;
+  top: 3102px;
+  width: 15px;
+}
+.landingpage .ellipse-179-V4bTox {
+  background-color: transparent;
+  height: 20px;
+  left: 1110px;
+  position: absolute;
+  top: 3464px;
+  width: 20px;
+}
+.landingpage .ellipse-179-VMr6Om {
+  background-color: transparent;
+  height: 35px;
+  left: 1032px;
+  position: absolute;
+  top: 3441px;
+  width: 35px;
+}
+.landingpage .ellipse-179-VkPPtx {
+  background-color: transparent;
+  height: 34px;
+  left: 746px;
+  position: absolute;
+  top: 3193px;
+  width: 34px;
+}
+.landingpage .ellipse-179-YWzA7M {
+  background-color: transparent;
+  height: 26px;
+  left: 707px;
+  position: absolute;
+  top: 3133px;
+  width: 26px;
+}
+.landingpage .ellipse-179-a5WPlX {
+  background-color: transparent;
+  height: 43px;
+  left: 946px;
+  position: absolute;
+  top: 3166px;
+  width: 43px;
+}
+.landingpage .ellipse-179-a73nmY {
+  background-color: transparent;
+  height: 15px;
+  left: 550px;
+  position: absolute;
+  top: 3125px;
+  width: 15px;
+}
+.landingpage .ellipse-179-dMQSMw {
+  background-color: transparent;
+  height: 35px;
+  left: 506px;
+  position: absolute;
+  top: 3398px;
+  width: 35px;
+}
+.landingpage .ellipse-179-eCxQ2N {
+  background-color: transparent;
+  height: 26px;
+  left: 483px;
+  position: absolute;
+  top: 3471px;
+  width: 26px;
+}
+.landingpage .ellipse-179-mzXdH9 {
+  background-color: transparent;
+  height: 37px;
+  left: 747px;
+  position: absolute;
+  top: 3415px;
+  width: 37px;
+}
+.landingpage .ellipse-179-oGxSr2 {
+  background-color: transparent;
+  height: 17px;
+  left: 225px;
+  position: absolute;
+  top: 3122px;
+  width: 17px;
+}
+.landingpage .ellipse-179-qr8e7q {
+  background-color: transparent;
+  height: 35px;
+  left: 906px;
+  position: absolute;
+  top: 3273px;
+  width: 35px;
+}
+.landingpage .ellipse-179-rxvq3k {
+  background-color: transparent;
+  height: 26px;
+  left: 542px;
+  position: absolute;
+  top: 3057px;
+  width: 26px;
+}
+.landingpage .ellipse-179-rzkej8 {
+  background-color: transparent;
+  height: 26px;
+  left: 470px;
+  position: absolute;
+  top: 3165px;
+  width: 26px;
+}
+.landingpage .ellipse-179-sOxCtc {
+  background-color: transparent;
+  height: 23px;
+  left: 432px;
+  position: absolute;
+  top: 3232px;
+  width: 23px;
+}
+.landingpage .ellipse-179-uUmcMD {
+  background-color: transparent;
+  height: 21px;
+  left: 378px;
+  position: absolute;
+  top: 3266px;
+  width: 21px;
+}
+.landingpage .ellipse-179-x5xjB4 {
+  background-color: transparent;
+  height: 20px;
+  left: 1058px;
+  position: absolute;
+  top: 3121px;
+  width: 20px;
+}
+.landingpage .ellipse-18 {
+  background-color: transparent;
+  height: 47px;
+  left: 926px;
+  position: absolute;
+  top: 290px;
+  width: 39px;
+}
+.landingpage .ellipse-184 {
+  background-color: transparent;
+  height: 23px;
+  left: 936px;
+  position: absolute;
+  top: 303px;
+  width: 18px;
+}
+.landingpage .ellipse-185 {
+  background-color: transparent;
+  height: 37px;
+  left: 952px;
+  position: absolute;
+  top: 376px;
+  width: 52px;
+}
+.landingpage .Illustration1 {
+  position: absolute;
+width: 611.24px;
+height: 382.44px;
+left: 745.76px;
+top: 179.11px;
+}
+.landingpage .ellipse-187 {
+  background-color: transparent;
+  height: 14px;
+  left: 1343px;
+  position: absolute;
+  top: 430px;
+  width: 14px;
+}
+.landingpage .ellipse-188 {
+  background-color: transparent;
+  height: 37px;
+  left: 397px;
+  position: absolute;
+  top: 1191px;
+  width: 52px;
+}
+.landingpage .ellipse-192 {
+  background-color: transparent;
+  height: 22px;
+  left: 415px;
+  position: absolute;
+  top: 1307px;
+  width: 22px;
+}
+.landingpage .ellipse-203 {
+  background-color: transparent;
+  height: 17px;
+  left: 318px;
+  position: absolute;
+  top: 1934px;
+  width: 17px;
+}
+.landingpage .ellipse-204 {
+  background-color: transparent;
+  height: 16px;
+  left: 345px;
+  position: absolute;
+  top: 1923px;
+  width: 16px;
+}
+.landingpage .ellipse-205 {
+  background-color: transparent;
+  height: 13px;
+  left: 328px;
+  position: absolute;
+  top: 1903px;
+  width: 13px;
+}
+.landingpage .ellipse-206 {
+  background-color: transparent;
+  height: 17px;
+  left: 696px;
+  position: absolute;
+  top: 1935px;
+  width: 17px;
+}
+.landingpage .ellipse-207 {
+  background-color: transparent;
+  height: 16px;
+  left: 730px;
+  position: absolute;
+  top: 1919px;
+  width: 16px;
+}
+.landingpage .ellipse-208 {
+  background-color: transparent;
+  height: 13px;
+  left: 700px;
+  position: absolute;
+  top: 1905px;
+  width: 13px;
+}
+.landingpage .ellipse-212 {
+  background-color: transparent;
+  height: 12px;
+  left: 726px;
+  position: absolute;
+  top: 1891px;
+  width: 12px;
+}
+.landingpage .ellipse-218 {
+  background-color: transparent;
+  height: 3px;
+  left: 356px;
+  position: absolute;
+  top: 1907px;
+  width: 3px;
+}
+.landingpage .ellipse-219 {
+  background-color: transparent;
+  height: 3px;
+  left: 345px;
+  position: absolute;
+  top: 1945px;
+  width: 3px;
+}
+.landingpage .ellipse-220 {
+  background-color: transparent;
+  height: 3px;
+  left: 317px;
+  position: absolute;
+  top: 1919px;
+  width: 3px;
+}
+.landingpage .ellipse-221 {
+  background-color: transparent;
+  height: 3px;
+  left: 721px;
+  position: absolute;
+  top: 1918px;
+  width: 3px;
+}
+.landingpage .ellipse-222 {
+  background-color: transparent;
+  height: 3px;
+  left: 729px;
+  position: absolute;
+  top: 1946px;
+  width: 3px;
+}
+.landingpage .ellipse-223 {
+  background-color: transparent;
+  height: 3px;
+  left: 691px;
+  position: absolute;
+  top: 1919px;
+  width: 3px;
+}
+.landingpage .ellipse-224 {
+  background-color: transparent;
+  height: 3px;
+  left: 746px;
+  position: absolute;
+  top: 1905px;
+  width: 3px;
+}
+.landingpage .ellipse-225 {
+  background-color: transparent;
+  height: 3px;
+  left: 707px;
+  position: absolute;
+  top: 1886px;
+  width: 3px;
+}
+.landingpage .-2P4qUJ {
+  background-color: transparent;
+  height: 31px;
+  left: 358px;
+  position: absolute;
+  top: 1029px;
+  width: 31px;
+}
+.landingpage .-C61RwL {
+  background-color: transparent;
+  height: 28px;
+  left: 439px;
+  position: absolute;
+  top: 1006px;
+  width: 28px;
+}
+.landingpage .-QxM5SU {
+  background-color: transparent;
+  height: 14px;
+  left: 371px;
+  position: absolute;
+  top: 960px;
+  width: 14px;
+}
+.landingpage .-VMr6Om {
+  background-color: transparent;
+  height: 25px;
+  left: 391px;
+  position: absolute;
+  top: 988px;
+  width: 25px;
+}
+.landingpage .-mzXdH9 {
+  background-color: transparent;
+  height: 17px;
+  left: 427px;
+  position: absolute;
+  top: 970px;
+  width: 17px;
+}
+.landingpage .encrypted--ction-1334 {
+  background-color: transparent;
+  height: auto;
+  left: 289px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2152px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .encrypted--ction-1355 {
+  background-color: transparent;
+  height: auto;
+  left: 669px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2152px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .encrypted--ction-1381 {
+  background-color: transparent;
+  height: auto;
+  left: 1049px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2152px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .engage-164 {
+  background-color: transparent;
+  height: auto;
+  left: 920px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 4809px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .engage-164:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .evaarrow-back-fill-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 30px;
+  justify-content: flex-start;
+  left: 1085px;
+  padding: 6.2px 5px;
+  position: absolute;
+  top: 4395px;
+  width: 30px;
+}
+.landingpage .evaarrow-back-fill-VMr6Om {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 30px;
+  justify-content: flex-start;
+  left: 1165px;
+  padding: 6.2px 5px;
+  position: absolute;
+  top: 4395px;
+  transform: rotate(180deg);
+  width: 30px;
+}
+.landingpage .faq-166 {
+  background-color: transparent;
+  height: auto;
+  left: 920px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 4899px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .faq-166:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .features-1288 {
+  background-color: transparent;
+  height: auto;
+  left: 542px;
+  letter-spacing: 0px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.landingpage .features-1288:hover {
+  opacity: 80%;
+}
+.landingpage .free-144 {
+  background-color: transparent;
+  color: var(--black-pearl);
+  font-family: "Rubik-Medium", Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 313px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 2392px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .free-plan-143 {
+  background-color: transparent;
+  height: auto;
+  left: 299px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 2052px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .get-new-fe-tures-1401 {
+  background-color: transparent;
+  height: auto;
+  left: 1049px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2312px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .get-started-1301 {
+  background-color: transparent;
+  height: auto;
+  left: 228px;
+  letter-spacing: 0px;
+  line-height: 25px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 494px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .get-started-1301:hover {
+  cursor: pointer;
+}
+.landingpage .gridiconslocation {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 644px;
+  padding: 2px 5px;
+  position: absolute;
+  top: 753px;
+  width: 24px;
+}
+.landingpage .group-1206 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 116px;
+  width: 412px;
+}
+.landingpage .group-1210 {
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+  display: inline-flex;
+  flex-direction: row;
+  height: 233px;
+  justify-content: flex-start;
+  left: 150px;
+  min-width: 1140px;
+  padding: 0 70px;
+  position: absolute;
+  top: 4548px;
+  width: auto;
+}
+.landingpage .group-1276 {
+  background-color: transparent;
+  height: 135px;
+  left: 185px;
+  position: absolute;
+  top: 1059px;
+  width: 141px;
+}
+.landingpage .group-1287 {
+  background-color: transparent;
+  height: 67px;
+  left: 268px;
+  position: absolute;
+  top: 1856px;
+  width: 60px;
+}
+.landingpage .group-1288 {
+  background-color: transparent;
+  height: 67px;
+  left: 353px;
+  position: absolute;
+  top: 1856px;
+  width: 60px;
+}
+.landingpage .group-1289 {
+  background-color: transparent;
+  height: 67px;
+  left: 648px;
+  position: absolute;
+  top: 1856px;
+  width: 60px;
+}
+.landingpage .group-1290 {
+  background-color: transparent;
+  height: 67px;
+  left: 733px;
+  position: absolute;
+  top: 1856px;
+  width: 60px;
+}
+.landingpage .group-1291 {
+  background-color: transparent;
+  height: 67px;
+  left: 1028px;
+  position: absolute;
+  top: 1856px;
+  width: 60px;
+}
+.landingpage .group-1292 {
+  background-color: transparent;
+  height: 67px;
+  left: 1113px;
+  position: absolute;
+  top: 1856px;
+  width: 60px;
+}
+.landingpage .group-1296 {
+  background-color: transparent;
+  height: 135px;
+  left: 520px;
+  position: absolute;
+  top: 1059px;
+  width: 141px;
+}
+.landingpage .help-1291 {
+  background-color: transparent;
+  height: auto;
+  left: 873px;
+  letter-spacing: 0px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.landingpage .help-1291:hover {
+  opacity: 80%;
+}
+.landingpage .heroiconssm-user {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 256px;
+  padding: 2.4px 3.6px;
+  position: absolute;
+  top: 753px;
+  width: 24px;
+}
+.landingpage .huge-globa-st-vpn-123 {
+  background-color: transparent;
+  height: auto;
+  left: 528px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 2687px;
+  width: 385px;
+}
+.landingpage .i-like-it--speed-1107 {
+  background-color: transparent;
+  height: auto;
+  left: 550px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4178px;
+  width: 342px;
+}
+.landingpage .internet-w-orders-118 {
+  background-color: transparent;
+  height: auto;
+  left: 896px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1260px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .jamcheck-2P4qUJ {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 625px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2155px;
+  width: 24px;
+}
+.landingpage .jamcheck-3kIbHG {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 1005px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2235px;
+  width: 24px;
+}
+.landingpage .jamcheck-C61RwL {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 245px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2155px;
+  width: 24px;
+}
+.landingpage .jamcheck-HlKRTo {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 625px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2115px;
+  width: 24px;
+}
+.landingpage .jamcheck-J1YQmd {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 625px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2235px;
+  width: 24px;
+}
+.landingpage .jamcheck-QxM5SU {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 245px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2115px;
+  width: 24px;
+}
+.landingpage .jamcheck-R7WrHk {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 1005px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2315px;
+  width: 24px;
+}
+.landingpage .jamcheck-VMr6Om {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 245px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2195px;
+  width: 24px;
+}
+.landingpage .jamcheck-VkPPtx {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 1005px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2155px;
+  width: 24px;
+}
+.landingpage .jamcheck-YWzA7M {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 1005px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2195px;
+  width: 24px;
+}
+.landingpage .jamcheck-a5WPlX {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 625px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2275px;
+  width: 24px;
+}
+.landingpage .jamcheck-a73nmY {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 1005px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2275px;
+  width: 24px;
+}
+.landingpage .jamcheck-mzXdH9 {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 245px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2235px;
+  width: 24px;
+}
+.landingpage .jamcheck-qr8e7q {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 625px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2195px;
+  width: 24px;
+}
+.landingpage .jamcheck-rxvq3k {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 24px;
+  justify-content: flex-start;
+  left: 1005px;
+  padding: 7.3px 5.2px;
+  position: absolute;
+  top: 2115px;
+  width: 24px;
+}
+.landingpage .kim-young-jou-1104 {
+  background-color: transparent;
+  height: 18px;
+  left: 1070px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4126px;
+  white-space: nowrap;
+  width: 144px;
+}
+.landingpage .lasles-vpn-111 {
+  background-color: transparent;
+  color: var(--black-pearl);
+  flex-shrink: 0;
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 20px;
+  height: auto;
+  letter-spacing: 0px;
+  margin-left: 10px;
+  margin-top: 0px;
+  min-height: 24px;
+  min-width: 116px;
+  text-align: left;
+  width: auto;
+}
+.landingpage .lasles-vpn-1284 {
+  background-color: transparent;
+  color: var(--black-pearl);
+  flex-shrink: 0;
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 20px;
+  height: auto;
+  letter-spacing: 0px;
+  margin-left: 10px;
+  margin-top: 0px;
+  min-height: 24px;
+  min-width: 116px;
+  pointer-events: auto;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.landingpage .lasles-vpn-1284:hover {
+  opacity: 80%;
+}
+.landingpage .lasles-vpn-165 {
+  background-color: transparent;
+  height: auto;
+  left: 920px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 4859px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .lasles-vpn-165:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .lasles-vpn-curity-176 {
+  background-color: transparent;
+  color: var(--scarpa-flow);
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 16px;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4862px;
+  width: 342px;
+}
+.landingpage .lets-choos-rfully-115 {
+  background-color: transparent;
+  height: auto;
+  left: 442px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 1657px;
+  width: 557px;
+}
+.landingpage .lets-subsc-e-fun-1276 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 16px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  margin-bottom: -14px;
+  margin-top: 20px;
+  min-height: 16px;
+  text-align: left;
+  white-space: nowrap;
+  width: 412px;
+}
+.landingpage .locations-1304 {
+  background-color: transparent;
+  height: auto;
+  left: 720px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 767px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .locations-159 {
+  background-color: transparent;
+  height: auto;
+  left: 720px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 4939px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .locations-159:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .logo-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 36px;
+  justify-content: flex-start;
+  left: 150px;
+  min-width: 151px;
+  position: absolute;
+  top: 4806px;
+  width: auto;
+}
+.landingpage .logo-VMr6Om {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 36px;
+  justify-content: flex-start;
+  left: 150px;
+  min-width: 151px;
+  position: absolute;
+  top: 50px;
+  width: auto;
+}
+.landingpage .mask-group-00LGpa {
+  background-color: transparent;
+  height: 46px;
+  left: 459px;
+  position: absolute;
+  top: 1119px;
+  width: 24px;
+}
+.landingpage .mask-group-2P4qUJ {
+  background-color: transparent;
+  height: 51px;
+  left: 1109px;
+  position: absolute;
+  top: 3674px;
+  width: 171px;
+}
+.landingpage .mask-group-3kIbHG {
+  background-color: transparent;
+  height: 62px;
+  left: 1054px;
+  position: absolute;
+  top: 1959px;
+  width: 90px;
+}
+.landingpage .mask-group-C61RwL {
+  background-color: transparent;
+  height: 112px;
+  left: 145px;
+  position: absolute;
+  top: 3644px;
+  width: 200px;
+}
+.landingpage .mask-group-HlKRTo {
+  background-color: transparent;
+  height: 62px;
+  left: 736px;
+  position: absolute;
+  top: 1959px;
+  width: 29px;
+}
+.landingpage .mask-group-J1YQmd {
+  background-color: transparent;
+  height: 32px;
+  left: 833px;
+  position: absolute;
+  top: 324px;
+  width: 32px;
+}
+.landingpage .mask-group-QxM5SU {
+  background-color: transparent;
+  height: 64px;
+  left: 862px;
+  position: absolute;
+  top: 3670px;
+  width: 187px;
+}
+.landingpage .mask-group-R7WrHk {
+  background-color: transparent;
+  height: 49px;
+  left: 401px;
+  position: absolute;
+  top: 1172px;
+  width: 43px;
+}
+.landingpage .mask-group-VMr6Om {
+  background-color: transparent;
+  height: 51px;
+  left: 404px;
+  position: absolute;
+  top: 3675px;
+  width: 156px;
+}
+.landingpage .mask-group-VkPPtx {
+  background-color: transparent;
+  height: 64px;
+  left: 285px;
+  position: absolute;
+  top: 1958px;
+  width: 99px;
+}
+.landingpage .mask-group-YWzA7M {
+  background-color: transparent;
+  height: 62px;
+  left: 356px;
+  position: absolute;
+  top: 1959px;
+  width: 29px;
+}
+.landingpage .mask-group-a5WPlX {
+  background-color: transparent;
+  height: 62px;
+  left: 675px;
+  position: absolute;
+  top: 1959px;
+  width: 90px;
+}
+.landingpage .mask-group-a73nmY {
+  background-color: transparent;
+  height: 62px;
+  left: 1115px;
+  position: absolute;
+  top: 1959px;
+  width: 29px;
+}
+.landingpage .mask-group-mzXdH9 {
+  background-color: transparent;
+  height: 208px;
+  left: 581px;
+  position: absolute;
+  top: 3596px;
+  width: 278px;
+}
+.landingpage .mask-group-qr8e7q {
+  background-color: transparent;
+  height: 60px;
+  left: 959px;
+  position: absolute;
+  top: 347px;
+  width: 48px;
+}
+.landingpage .mask-group-rxvq3k {
+  background-color: transparent;
+  height: 46px;
+  left: 364px;
+  position: absolute;
+  top: 1119px;
+  width: 24px;
+}
+.landingpage .no-specifi-limits-120 {
+  background-color: transparent;
+  height: auto;
+  left: 896px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1350px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .no-traffic-logs-1342 {
+  background-color: transparent;
+  height: auto;
+  left: 289px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2192px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .polygon-1 {
+  background-color: transparent;
+  height: 12px;
+  left: 1291px;
+  position: absolute;
+  top: 385px;
+  width: 12px;
+}
+.landingpage .polygon-2 {
+  background-color: transparent;
+  height: 24px;
+  left: 1092px;
+  position: absolute;
+  top: 197px;
+  width: 27px;
+}
+.landingpage .powerfull--ection-117 {
+  background-color: transparent;
+  height: auto;
+  left: 896px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1215px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .premium-plan-137 {
+  background-color: transparent;
+  height: auto;
+  left: 1040px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 2052px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .pricing-1287 {
+  background-color: transparent;
+  height: auto;
+  left: 648px;
+  letter-spacing: 0px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.landingpage .pricing-1287:hover {
+  opacity: 80%;
+}
+.landingpage .pricing-158 {
+  background-color: transparent;
+  height: auto;
+  left: 720px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 4899px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .pricing-158:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .privacy-policy-169 {
+  background-color: transparent;
+  height: auto;
+  left: 920px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5019px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .privacy-policy-169:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .product-156 {
+  background-color: transparent;
+  height: auto;
+  left: 720px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 4809px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .product-156:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .provide-a--om-us-1297 {
+  background-color: transparent;
+  color: var(--scarpa-flow-2);
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 16px;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 367px;
+  width: 557px;
+}
+.landingpage .rectangle-250-C61RwL {
+  background-color: var(--red-orange);
+  border-radius: 10px;
+  height: 60px;
+  left: 150px;
+  pointer-events: auto;
+  position: absolute;
+  top: 477px;
+  transition: all 0.2s ease;
+  width: 250px;
+}
+.landingpage .rectangle-250-C61RwL:hover {
+  cursor: pointer;
+}
+.landingpage .rectangle-250-jdVS4v {
+  background-color: var(--red-orange);
+  border-radius: 10px;
+  height: 60px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 250px;
+}
+.landingpage .rectangle-250-jdVS4v:hover {
+  cursor: pointer;
+}
+.landingpage .rectangle-252 {
+  background-color: white;
+  border-radius: 10px;
+  height: 200px;
+  left: 150px;
+  position: absolute;
+  top: 665px;
+  width: 1140px;
+}
+.landingpage .rectangle-253 {
+  background-color: white;
+  border-radius: 10px;
+  height: 760px;
+  left: 175px;
+  position: absolute;
+  top: 1777px;
+  width: 330px;
+}
+.landingpage .rectangle-254 {
+  background-color: white;
+  border-radius: 10px;
+  height: 760px;
+  left: 555px;
+  position: absolute;
+  top: 1777px;
+  width: 330px;
+}
+.landingpage .rectangle-255 {
+  background-color: white;
+  border-radius: 10px;
+  height: 760px;
+  left: 935px;
+  position: absolute;
+  top: 1777px;
+  width: 330px;
+}
+.landingpage .rectangle-260 {
+  background-color: rgba(248, 248, 248, 1);
+  height: 563px;
+  left: 0px;
+  position: absolute;
+  top: 4742px;
+  width: 1440px;
+}
+.landingpage .rectangle-264 {
+  background-color: transparent;
+  height: 189px;
+  left: 186px;
+  position: absolute;
+  top: 717px;
+  width: 1069px;
+}
+.landingpage .rectangle-265 {
+  background-color: white;
+  border-radius: 10px;
+  height: 230px;
+  left: 70px;
+  pointer-events: auto;
+  position: absolute;
+  top: 4090px;
+  transition: all 0.2s ease;
+  width: 400px;
+}
+.landingpage .rectangle-265:hover {
+  cursor: pointer;
+}
+.landingpage .rectangle-266 {
+  background-color: transparent;
+  height: 301px;
+  left: 111px;
+  position: absolute;
+  top: 4090px;
+  width: 318px;
+}
+.landingpage .rectangle-267 {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 230px;
+  left: 520px;
+  pointer-events: auto;
+  position: absolute;
+  top: 4090px;
+  transition: all 0.2s ease;
+  width: 400px;
+}
+.landingpage .rectangle-267:hover {
+  cursor: pointer;
+}
+.landingpage .rectangle-268 {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 230px;
+  left: 970px;
+  pointer-events: auto;
+  position: absolute;
+  top: 4090px;
+  transition: all 0.2s ease;
+  width: 400px;
+}
+.landingpage .rectangle-268:hover {
+  cursor: pointer;
+}
+.landingpage .rectangle-269 {
+  background-color: transparent;
+  height: 250px;
+  left: 181px;
+  position: absolute;
+  top: 4526px;
+  width: 1077px;
+}
+.landingpage .rectangle-270-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 169px;
+  position: absolute;
+  top: 502px;
+  width: 212px;
+}
+.landingpage .rectangle-270-VMr6Om {
+  background-color: var(--fair-pink);
+  border-radius: 70px;
+  height: 55px;
+  left: 628px;
+  position: absolute;
+  top: 737px;
+  width: 55px;
+}
+.landingpage .rectangle-270-jdVS4v {
+  background-color: transparent;
+  height: 60px;
+  left: 19px;
+  position: absolute;
+  top: 25px;
+  width: 212px;
+}
+.landingpage .rectangle-271 {
+  background-color: var(--fair-pink);
+  border-radius: 70px;
+  height: 55px;
+  left: 241px;
+  position: absolute;
+  top: 737px;
+  width: 55px;
+}
+.landingpage .rectangle-272 {
+  background-color: var(--fair-pink);
+  border-radius: 70px;
+  height: 55px;
+  left: 1037px;
+  position: absolute;
+  top: 737px;
+  width: 55px;
+}
+.landingpage .rectangle-273-C61RwL {
+  background-color: transparent;
+  border-radius: 50px;
+  height: 45px;
+  left: 251px;
+  position: absolute;
+  top: 2442px;
+  width: 178px;
+}
+.landingpage .rectangle-273-VMr6Om {
+  background-color: transparent;
+  border-radius: 50px;
+  height: 45px;
+  left: 631px;
+  position: absolute;
+  top: 2442px;
+  width: 178px;
+}
+.landingpage .rectangle-273-mzXdH9 {
+  background-color: var(--red-orange);
+  border-radius: 50px;
+  height: 45px;
+  left: 1011px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2442px;
+  transition: all 0.2s ease;
+  width: 178px;
+}
+.landingpage .rectangle-273-mzXdH9:hover {
+  cursor: pointer;
+}
+.landingpage .rectangle-274 {
+  background-color: transparent;
+  height: 45px;
+  left: 1036px;
+  position: absolute;
+  top: 2459px;
+  width: 127px;
+}
+.landingpage .rectangle-279 {
+  background-color: transparent;
+  height: 2083px;
+  left: 1px;
+  position: absolute;
+  top: 1506px;
+  width: 1440px;
+}
+.landingpage .rectangle-288 {
+  background-color: transparent;
+  height: 94px;
+  left: 1066px;
+  position: absolute;
+  top: 466px;
+  width: 162px;
+}
+.landingpage .rectangle-289 {
+  background-color: transparent;
+  height: 7px;
+  left: 1013px;
+  position: absolute;
+  top: 553px;
+  width: 69px;
+}
+.landingpage .rectangle-290 {
+  background-color: rgba(48, 35, 91, 1);
+  border-radius: 3.1px;
+  height: 16px;
+  left: 1265px;
+  position: absolute;
+  top: 544px;
+  width: 58px;
+}
+.landingpage .rectangle-291 {
+  background-color: var(--bon-jour);
+  height: 10px;
+  left: 1257px;
+  position: absolute;
+  top: 489px;
+  transform: rotate(117.37deg);
+  width: 126px;
+}
+.landingpage .rectangle-292 {
+  background-color: var(--bon-jour);
+  height: 10px;
+  left: 1291px;
+  position: absolute;
+  top: 410px;
+  transform: rotate(-139.77deg);
+  width: 68px;
+}
+.landingpage .rectangle-293 {
+  background-color: var(--bon-jour);
+  height: 4px;
+  left: 1277px;
+  position: absolute;
+  top: 392px;
+  transform: rotate(162.13deg);
+  width: 20px;
+}
+.landingpage .rectangle-294 {
+  background-color: transparent;
+  height: 29px;
+  left: 1259px;
+  position: absolute;
+  top: 377px;
+  width: 23px;
+}
+.landingpage .rectangle-295 {
+  background-color: transparent;
+  height: 4px;
+  left: 994px;
+  position: absolute;
+  top: 516px;
+  width: 17px;
+}
+.landingpage .rectangle-296 {
+  background-color: rgba(255, 121, 121, 1);
+  border-radius: 2.6px;
+  height: 27px;
+  left: 1200px;
+  position: absolute;
+  top: 281px;
+  width: 19px;
+}
+.landingpage .rectangle-297 {
+  background-color: rgba(158, 255, 173, 1);
+  border-radius: 2.6px;
+  height: 43px;
+  left: 1229px;
+  position: absolute;
+  top: 265px;
+  width: 19px;
+}
+.landingpage .rectangle-298 {
+  background-color: rgba(255, 222, 173, 1);
+  border-radius: 2.6px;
+  height: 36px;
+  left: 1257px;
+  position: absolute;
+  top: 272px;
+  width: 19px;
+}
+.landingpage .rectangle-299 {
+  background-color: transparent;
+  border-radius: 4.7px;
+  height: 82px;
+  left: 1182px;
+  opacity: 0.5;
+  position: absolute;
+  top: 245px;
+  width: 113px;
+}
+.landingpage .rectangle-300 {
+  background-color: transparent;
+  border-radius: 3.5px;
+  height: 59px;
+  left: 1068px;
+  opacity: 0.5;
+  position: absolute;
+  top: 179px;
+  width: 76px;
+}
+.landingpage .rectangle-301 {
+  background-color: transparent;
+  border-radius: 4.7px;
+  height: 79px;
+  left: 761px;
+  opacity: 0.5;
+  position: absolute;
+  top: 179px;
+  width: 102px;
+}
+.landingpage .rectangle-302 {
+  background-color: transparent;
+  border-radius: 4.7px;
+  height: 55px;
+  left: 815px;
+  opacity: 0.5;
+  position: absolute;
+  top: 313px;
+  width: 70px;
+}
+.landingpage .rectangle-303 {
+  background-color: white;
+  height: 39px;
+  left: 1083px;
+  opacity: 0.5;
+  position: absolute;
+  top: 188px;
+  width: 43px;
+}
+.landingpage .rectangle-304 {
+  background-color: white;
+  height: 58px;
+  left: 1189px;
+  opacity: 0.5;
+  position: absolute;
+  top: 259px;
+  width: 96px;
+}
+.landingpage .rectangle-305 {
+  background-color: white;
+  height: 58px;
+  left: 782px;
+  opacity: 0.5;
+  position: absolute;
+  top: 187px;
+  width: 61px;
+}
+.landingpage .rectangle-306 {
+  background-color: white;
+  height: 45px;
+  left: 831px;
+  opacity: 0.5;
+  position: absolute;
+  top: 318px;
+  width: 43px;
+}
+.landingpage .rectangle-312 {
+  background-color: white;
+  border-radius: 40px;
+  box-shadow: 0px 4px 34px rgba(9, 16, 26, 0.13);
+  height: 44px;
+  left: 462px;
+  position: absolute;
+  top: 1120px;
+  transform: rotate(10.05deg);
+  width: 17px;
+}
+.landingpage .rectangle-313 {
+  background-color: white;
+  border-radius: 40px;
+  box-shadow: 0px 4px 34px rgba(9, 16, 26, 0.13);
+  height: 44px;
+  left: 368px;
+  position: absolute;
+  top: 1120px;
+  transform: rotate(169.95deg);
+  width: 17px;
+}
+.landingpage .rectangle-314 {
+  background-color: rgba(36, 194, 138, 1);
+  border-radius: 40px;
+  box-shadow: 0px 4px 34px rgba(9, 16, 26, 0.13);
+  height: 21px;
+  left: 366px;
+  position: absolute;
+  top: 1133px;
+  transform: rotate(169.95deg);
+  width: 5px;
+}
+.landingpage .rectangle-315 {
+  background-color: rgba(36, 194, 138, 1);
+  border-radius: 40px;
+  box-shadow: 0px 4px 34px rgba(9, 16, 26, 0.13);
+  height: 21px;
+  left: 476px;
+  position: absolute;
+  top: 1133px;
+  transform: rotate(10.05deg);
+  width: 5px;
+}
+.landingpage .rectangle-318 {
+  background-color: transparent;
+  height: 105px;
+  left: 347px;
+  position: absolute;
+  top: 1266px;
+  width: 157px;
+}
+.landingpage .rectangle-319 {
+  background-color: transparent;
+  height: 7px;
+  left: 347px;
+  position: absolute;
+  top: 1368px;
+  width: 157px;
+}
+.landingpage .rectangle-320-C61RwL {
+  background-color: transparent;
+  height: 62px;
+  left: 675px;
+  position: absolute;
+  top: 1959px;
+  width: 90px;
+}
+.landingpage .rectangle-320-VMr6Om {
+  background-color: transparent;
+  height: 62px;
+  left: 1054px;
+  position: absolute;
+  top: 1959px;
+  width: 90px;
+}
+.landingpage .see-lasles-ations-116 {
+  background-color: transparent;
+  color: var(--scarpa-flow-2);
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 16px;
+  height: auto;
+  left: 442px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 2807px;
+  width: 557px;
+}
+.landingpage .select-147 {
+  background-color: transparent;
+  color: var(--red-orange);
+  font-family: "Rubik-Bold", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 314px;
+  letter-spacing: 0px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2455px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.landingpage .select-147:hover {
+  cursor: pointer;
+}
+.landingpage .select-150 {
+  background-color: transparent;
+  color: var(--red-orange);
+  font-family: "Rubik-Bold", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 694px;
+  letter-spacing: 0px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2455px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.landingpage .select-150:hover {
+  cursor: pointer;
+}
+.landingpage .select-154 {
+  background-color: transparent;
+  height: auto;
+  left: 1074px;
+  letter-spacing: 0px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2455px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.landingpage .select-154:hover {
+  cursor: pointer;
+}
+.landingpage .seoul-sout-korea-1105 {
+  background-color: transparent;
+  height: 14px;
+  left: 1071px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4150px;
+  white-space: nowrap;
+  width: 129px;
+}
+.landingpage .server-160 {
+  background-color: transparent;
+  height: auto;
+  left: 720px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 4979px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .server-160:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .servers-1311 {
+  background-color: transparent;
+  height: auto;
+  left: 1128px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 767px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .shanxi-china-1101 {
+  background-color: transparent;
+  height: 14px;
+  left: 621px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4150px;
+  white-space: nowrap;
+  width: 111px;
+}
+.landingpage .sign-in-1292 {
+  background-color: transparent;
+  color: var(--black-pearl);
+  font-family: "Rubik-Medium", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 1057px;
+  letter-spacing: 0px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.landingpage .sign-in-1292:hover {
+  opacity: 80%;
+}
+.landingpage .sign-up-1295 {
+  background-color: transparent;
+  color: var(--sizzling-red);
+  flex-shrink: 0;
+  font-family: "Rubik-Medium", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  letter-spacing: 0px;
+  min-height: 19px;
+  min-width: 72px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.landingpage .sign-up-1295:hover {
+  opacity: 80%;
+}
+.landingpage .span1-BHFtMn {
+  color: rgba(79, 86, 101, 1);
+  font-family: "Rubik-Medium", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.landingpage .span1-G1wES4 {
+  color: rgba(11, 19, 42, 1);
+  font-family: "Rubik-Medium", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.landingpage .span1-JP2uHB {
+  color: rgba(11, 19, 42, 1);
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.landingpage .span1-Q9Pw2B {
+  color: rgba(11, 19, 42, 1);
+  font-family: "Rubik-Medium", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.landingpage .span1-SYoOPK {
+  font-family: "Rubik-Regular", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.landingpage .span1-fKUAYn {
+  color: rgba(78, 86, 100, 1);
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.landingpage .span1-msLpka {
+  color: rgba(11, 19, 42, 1);
+  font-family: "Rubik-Medium", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.landingpage .span1-ouNVdd {
+  color: rgba(11, 19, 42, 1);
+  font-family: "Rubik-Medium", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.landingpage .span1-vyjSxe {
+  color: rgba(78, 86, 100, 1);
+  font-family: "Rubik-Regular", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.landingpage .span2-BHFtMn {
+  color: rgba(79, 86, 101, 1);
+  font-family: "Rubik-Regular", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.landingpage .span2-G1wES4 {
+  color: rgba(79, 86, 101, 1);
+  font-family: "Rubik-Regular", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.landingpage .span2-JP2uHB {
+  color: rgba(11, 19, 42, 1);
+  font-family: "Rubik-Bold", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.landingpage .span2-Q9Pw2B {
+  color: rgba(11, 19, 42, 1);
+  font-family: "Rubik-Bold", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.landingpage .span2-SYoOPK {
+  font-family: "Rubik-Medium", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.landingpage .span2-fKUAYn {
+  color: rgba(78, 86, 100, 1);
+  font-family: "Rubik-Medium", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.landingpage .span2-msLpka {
+  color: rgba(11, 19, 42, 1);
+  font-family: "Rubik-Bold", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.landingpage .span2-ouNVdd {
+  color: rgba(79, 86, 101, 1);
+  font-family: "Rubik-Regular", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.landingpage .span2-vyjSxe {
+  color: rgba(78, 86, 100, 1);
+  font-family: "Rubik-Medium", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.landingpage .span3-fKUAYn {
+  color: rgba(78, 86, 100, 1);
+  font-family: "Rubik-Regular", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.landingpage .span3-vyjSxe {
+  color: rgba(78, 86, 100, 1);
+  font-family: "Rubik-Regular", Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.landingpage .standard-c-lection-27-taB5r5 {
+  background-color: transparent;
+  background-image: url(../img/logo.png);
+  background-size: 100% 100%;
+  flex-shrink: 0;
+  height: 36px;
+  width: 35px;
+}
+.landingpage .standard-c-lection-27-exFKkL{
+  background-color: transparent;
+  background-image: url(../img/logo.png);
+  background-size: 100% 100%;
+  flex-shrink: 0;
+  height: 36px;
+  width: 35px;
+}
+.landingpage .standard-plan-140 {
+  background-color: transparent;
+  height: auto;
+  left: 658px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 2052px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .subscribe--tures-1275 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 80px;
+  letter-spacing: 0px;
+  line-height: 45px;
+  min-height: 80px;
+  text-align: left;
+  width: 374px;
+}
+.landingpage .subscribe-now-1280 {
+  background-color: transparent;
+  height: auto;
+  left: 65px;
+  letter-spacing: 0px;
+  line-height: 25px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .subscribe-now-1280:hover {
+  cursor: pointer;
+}
+.landingpage .subtract-C61RwL {
+  background-color: transparent;
+  height: 31px;
+  left: 975px;
+  position: absolute;
+  top: 307px;
+  width: 58px;
+}
+.landingpage .subtract-VMr6Om {
+  background-color: transparent;
+  height: 23px;
+  left: 391px;
+  position: absolute;
+  top: 1130px;
+  width: 66px;
+}
+.landingpage .supercharged-vpn-119 {
+  background-color: transparent;
+  height: auto;
+  left: 896px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1305px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .terms-of-service-170 {
+  background-color: transparent;
+  height: auto;
+  left: 920px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5059px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .terms-of-service-170:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .testimonials-1289 {
+  background-color: transparent;
+  height: auto;
+  left: 740px;
+  letter-spacing: 0px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.landingpage .testimonials-1289:hover {
+  opacity: 80%;
+}
+.landingpage .these-are--eature-180 {
+  background-color: transparent;
+  height: auto;
+  left: 453px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 3963px;
+  width: 557px;
+}
+.landingpage .trusted-by-stomer-181 {
+  background-color: transparent;
+  height: auto;
+  left: 506px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 3827px;
+  width: 450px;
+}
+.landingpage .tutorials-167 {
+  background-color: transparent;
+  height: auto;
+  left: 920px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 4939px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .tutorials-167:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.landingpage .union {
+  background-color: transparent;
+  height: 15px;
+  left: 70px;
+  position: absolute;
+  top: 4402px;
+  width: 45px;
+}
+.landingpage .unlimited--witch-1349 {
+  background-color: transparent;
+  height: auto;
+  left: 289px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2112px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .unlimited--witch-1375 {
+  background-color: transparent;
+  height: auto;
+  left: 669px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2112px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .unlimited--witch-1406 {
+  background-color: transparent;
+  height: auto;
+  left: 1049px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2112px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .users-1307 {
+  background-color: transparent;
+  height: auto;
+  left: 332px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 767px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .PremiumPlan {
+  background-color: transparent;
+  height: 165.37px;
+  left: 1027.55px;
+  position: absolute;
+  top: 1874px;
+  width: 144.9px;
+}
+.landingpage .vector-14 {
+  background-color: gray;
+  height: 126px;
+  left: 516px;
+  position: absolute;
+  top: 702px;
+  width: 0px;
+}
+.landingpage .vector-15 {
+  background-color: gray;
+  height: 126px;
+  left: 946px;
+  position: absolute;
+  top: 702px;
+  width: 0px;
+}
+.landingpage .vector-17 {
+  background-color: transparent;
+  height: 96px;
+  left: 936px;
+  position: absolute;
+  top: 267px;
+  width: 93px;
+}
+.landingpage .vector-18 {
+  background-color: transparent;
+  height: 113px;
+  left: 926px;
+  position: absolute;
+  top: 238px;
+  width: 106px;
+}
+.landingpage .vector-19 {
+  background-color: transparent;
+  height: 23px;
+  left: 918px;
+  position: absolute;
+  top: 244px;
+  width: 34px;
+}
+.landingpage .vector-20 {
+  background-color: transparent;
+  height: 62px;
+  left: 938px;
+  position: absolute;
+  top: 238px;
+  width: 81px;
+}
+.landingpage .vector-24 {
+  background-color: transparent;
+  height: 19px;
+  left: 1010px;
+  position: absolute;
+  top: 310px;
+  width: 20px;
+}
+.landingpage .vector-25 {
+  background-color: transparent;
+  height: 18px;
+  left: 980px;
+  position: absolute;
+  top: 317px;
+  width: 21px;
+}
+.landingpage .vector-26 {
+  background-color: transparent;
+  height: 19px;
+  left: 962px;
+  position: absolute;
+  top: 307px;
+  width: 14px;
+}
+.landingpage .vector-27 {
+  background-color: transparent;
+  height: 60px;
+  left: 959px;
+  position: absolute;
+  top: 347px;
+  width: 48px;
+}
+.landingpage .vector-28 {
+  background-color: transparent;
+  height: 184px;
+  left: 848px;
+  position: absolute;
+  top: 376px;
+  width: 240px;
+}
+.landingpage .vector-29 {
+  background-color: transparent;
+  height: 58px;
+  left: 848px;
+  position: absolute;
+  top: 504px;
+  width: 226px;
+}
+.landingpage .vector-2P4qUJ {
+  background-color: transparent;
+  height: 46px;
+  left: 796px;
+  position: absolute;
+  top: 196px;
+  width: 32px;
+}
+.landingpage .vector-30 {
+  background-color: transparent;
+  height: 163px;
+  left: 1064px;
+  position: absolute;
+  top: 355px;
+  width: 88px;
+}
+.landingpage .vector-31 {
+  background-color: transparent;
+  height: 24px;
+  left: 912px;
+  position: absolute;
+  top: 486px;
+  width: 3px;
+}
+.landingpage .vector-32 {
+  background-color: transparent;
+  height: 14px;
+  left: 1054px;
+  position: absolute;
+  top: 492px;
+  width: 1px;
+}
+.landingpage .vector-33 {
+  background-color: transparent;
+  height: 5px;
+  left: 1051px;
+  position: absolute;
+  top: 492px;
+  width: 3px;
+}
+.landingpage .vector-34 {
+  background-color: transparent;
+  height: 11px;
+  left: 1044px;
+  position: absolute;
+  top: 538px;
+  width: 9px;
+}
+.landingpage .vector-35 {
+  background-color: transparent;
+  height: 17px;
+  left: 1047px;
+  position: absolute;
+  top: 532px;
+  width: 13px;
+}
+.landingpage .vector-36 {
+  background-color: transparent;
+  height: 24px;
+  left: 1051px;
+  position: absolute;
+  top: 527px;
+  width: 17px;
+}
+.landingpage .vector-39 {
+  background-color: transparent;
+  height: 12px;
+  left: 1106px;
+  position: absolute;
+  top: 370px;
+  width: 4px;
+}
+.landingpage .vector-40 {
+  background-color: transparent;
+  height: 11px;
+  left: 1122px;
+  position: absolute;
+  top: 362px;
+  width: 4px;
+}
+.landingpage .vector-41 {
+  background-color: transparent;
+  height: 11px;
+  left: 1113px;
+  position: absolute;
+  top: 365px;
+  width: 4px;
+}
+.landingpage .vector-42 {
+  background-color: transparent;
+  height: 8px;
+  left: 1136px;
+  position: absolute;
+  top: 370px;
+  width: 3px;
+}
+.landingpage .vector-43 {
+  background-color: transparent;
+  height: 59px;
+  left: 756px;
+  position: absolute;
+  top: 501px;
+  width: 48px;
+}
+.landingpage .vector-44 {
+  background-color: transparent;
+  height: 34px;
+  left: 802px;
+  position: absolute;
+  top: 509px;
+  width: 24px;
+}
+.landingpage .vector-51 {
+  background-color: transparent;
+  height: 28px;
+  left: 996px;
+  position: absolute;
+  top: 519px;
+  width: 11px;
+}
+.landingpage .vector-52 {
+  background-color: transparent;
+  height: 184px;
+  left: 286px;
+  position: absolute;
+  top: 1191px;
+  width: 259px;
+}
+.landingpage .vector-77 {
+  background-color: transparent;
+  height: 98px;
+  left: 384px;
+  position: absolute;
+  top: 1089px;
+  width: 80px;
+}
+.landingpage .vector-78 {
+  background-color: transparent;
+  height: 77px;
+  left: 376px;
+  position: absolute;
+  top: 1062px;
+  width: 99px;
+}
+.landingpage .vector-79 {
+  background-color: transparent;
+  height: 6px;
+  left: 419px;
+  position: absolute;
+  top: 1058px;
+  width: 17px;
+}
+.landingpage .vector-80 {
+  background-color: transparent;
+  height: 58px;
+  left: 372px;
+  position: absolute;
+  top: 1072px;
+  width: 106px;
+}
+.landingpage .vector-83 {
+  background-color: transparent;
+  height: 49px;
+  left: 401px;
+  position: absolute;
+  top: 1172px;
+  width: 43px;
+}
+.landingpage .vector-87 {
+  background-color: transparent;
+  height: 19px;
+  left: 396px;
+  position: absolute;
+  top: 1133px;
+  width: 20px;
+}
+.landingpage .vector-88 {
+  background-color: transparent;
+  height: 19px;
+  left: 431px;
+  position: absolute;
+  top: 1133px;
+  width: 20px;
+}
+.landingpage .vector-89 {
+  background-color: transparent;
+  height: 8px;
+  left: 455px;
+  position: absolute;
+  top: 1136px;
+  width: 10px;
+}
+.landingpage .vector-90 {
+  background-color: transparent;
+  height: 8px;
+  left: 383px;
+  position: absolute;
+  top: 1135px;
+  width: 10px;
+}
+.landingpage .vector-91 {
+  background-color: transparent;
+  height: 77px;
+  left: 270px;
+  position: absolute;
+  top: 1295px;
+  width: 146px;
+}
+.landingpage .vector-92 {
+  background-color: transparent;
+  height: 131px;
+  left: 493px;
+  position: absolute;
+  top: 1170px;
+  width: 199px;
+}
+.landingpage .FreePlan {
+  background-color: transparent;
+  height: 165.37px;
+  left: 267.55px;
+  position: absolute;
+  top: 1856.18px;
+  width: 144.9px;
+}
+.landingpage .StandardPlan {
+  background-color: transparent;
+  height: 165.37px;
+  left: 647.55px;
+  position: absolute;
+  top: 1856.18px;
+  width: 144.9px;
+}
+.landingpage .vector-C61RwL {
+  position: absolute;
+left: 10.42%;
+right: 87.25%;
+top: 95.46%;
+bottom: 3.89%;
+}
+.landingpage .vector-GSMWlz {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 20px;
+  width: 20px;
+}
+.landingpage .vector-HlKRTo {
+  background-color: transparent;
+  height: 5px;
+  left: 375px;
+  position: absolute;
+  top: 965px;
+  width: 6px;
+}
+.landingpage .vector-J1YQmd {
+  background-color: transparent;
+  height: 10px;
+  left: 398px;
+  position: absolute;
+  top: 996px;
+  width: 11px;
+}
+.landingpage .vector-Orjpdx {
+  background-color: transparent;
+  height: 18px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+.landingpage .vector-QxM5SU {
+  background-color: transparent;
+  height: 538px;
+  left: 190px;
+  position: absolute;
+  top: 3022px;
+  width: 1060px;
+}
+.landingpage .vector-VMr6Om {
+  position: absolute;
+left: 14.14%;
+right: 83.53%;
+top: 95.46%;
+bottom: 3.89%;
+}
+.landingpage .vector-VkPPtx {
+  background-color: transparent;
+  height: 12px;
+  left: 366px;
+  position: absolute;
+  top: 1039px;
+  width: 13px;
+}
+.landingpage .vector-YC2x9p {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 20px;
+  width: 14px;
+}
+.landingpage .vector-a5WPlX {
+  background-color: transparent;
+  height: 7px;
+  left: 432px;
+  position: absolute;
+  top: 975px;
+  width: 7px;
+}
+.landingpage .vector-eSEY9c {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 18px;
+  width: 20px;
+  transition: all 0.2s ease;
+}
+.landingpage .vector-eSEY9c:hover{
+  height: 23px;
+}
+.landingpage .vector-jPHEZp {
+  background-color: transparent;
+flex-shrink: 0;
+height: 20px;
+width: 14px;
+}
+.landingpage .vector-mzXdH9 {
+  position: absolute;
+left: 17.86%;
+right: 79.81%;
+top: 95.46%;
+bottom: 3.89%;
+}
+.landingpage .vector-qr8e7q {
+  background-color: transparent;
+  height: 11px;
+  left: 447px;
+  position: absolute;
+  top: 1015px;
+  width: 12px;
+}
+.landingpage .vector-uFZnzw {
+  background-color: transparent;
+  height: 12px;
+  left: 13px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+.landingpage .vector-wjCLDh {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 13px;
+  width: 13px;
+}
+.landingpage .vector-zGd3ex {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 9px;
+  width: 13px;
+}
+.landingpage .viezh-robert-196 {
+  background-color: transparent;
+  height: 18px;
+  left: 170px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 4126px;
+  white-space: nowrap;
+  width: 114px;
+}
+.landingpage .want-anyth-s-vpn-1296 {
+  background-color: transparent;
+  color: var(--black-pearl);
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 50px;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 207px;
+  width: 557px;
+}
+.landingpage .warsaw-poland-197 {
+  background-color: transparent;
+  height: 14px;
+  left: 171px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 4150px;
+  white-space: nowrap;
+  width: 103px;
+}
+.landingpage .we-provide-an-use-121 {
+  background-color: transparent;
+  height: auto;
+  left: 862px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 1015px;
+  width: 385px;
+}
+.landingpage .works-on-a-vices-1347 {
+  background-color: transparent;
+  height: auto;
+  left: 289px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2232px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .works-on-a-vices-1365 {
+  background-color: transparent;
+  height: auto;
+  left: 669px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2232px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .works-on-a-vices-1391 {
+  background-color: transparent;
+  height: auto;
+  left: 1049px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2232px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .x-this-is-v-urity-1108 {
+  background-color: transparent;
+  height: 100px;
+  left: 1000px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4173px;
+  width: 342px;
+}
+.landingpage .x-wow-i-am---best-1106 {
+  background-color: transparent;
+  height: 100px;
+  left: 100px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4190px;
+  width: 342px;
+}
+.landingpage .x12-mo-138 {
+  background-color: transparent;
+  color: transparent;
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 25px;
+  height: auto;
+  left: 1048px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 2392px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .x2020-lasles-vpn-177 {
+  background-color: transparent;
+  color: rgba(175, 181, 192, 1);
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 16px;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 5017px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .x30-1305 {
+  background-color: transparent;
+  height: auto;
+  left: 720px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 732px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .x45-1113 {
+  background-color: transparent;
+  height: 16px;
+  left: 390px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4137px;
+  white-space: nowrap;
+  width: 26px;
+}
+.landingpage .x45-1118 {
+  background-color: transparent;
+  height: 16px;
+  left: 840px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4137px;
+  white-space: nowrap;
+  width: 26px;
+}
+.landingpage .x45-1123 {
+  background-color: transparent;
+  height: 16px;
+  left: 1290px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4137px;
+  white-space: nowrap;
+  width: 26px;
+}
+.landingpage .x50-1312 {
+  background-color: transparent;
+  height: auto;
+  left: 1128px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 732px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .x9-mo-141 {
+  background-color: transparent;
+  color: transparent;
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 25px;
+  height: auto;
+  left: 674px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 2392px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .x90-1308 {
+  background-color: transparent;
+  height: auto;
+  left: 332px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 732px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .yes-traffi--logs-1360 {
+  background-color: transparent;
+  height: auto;
+  left: 669px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2192px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .yes-traffi--logs-1386 {
+  background-color: transparent;
+  height: auto;
+  left: 1049px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2192px;
+  white-space: nowrap;
+  width: auto;
+}
+.landingpage .yessica-christy-1100 {
+  background-color: transparent;
+  height: 18px;
+  left: 620px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4126px;
+  white-space: nowrap;
+  width: 144px;
+}
+.landingpage .you-can-ex-eature-114 {
+  background-color: transparent;
+  height: auto;
+  left: 862px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1135px;
+  width: 430px;
+}
+.rubik-bold-black-pearl-25px {
+  color: var(--black-pearl);
+  font-family: "Rubik-Bold", Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rubik-bold-white-16px {
+  color: white;
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.rubik-medium-black-pearl-18px {
+  color: var(--black-pearl);
+  font-family: "Rubik-Medium", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+}
+.rubik-medium-black-pearl-35px {
+  color: var(--black-pearl);
+  font-family: "Rubik-Medium", Helvetica, Arial, serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 500;
+}
+.rubik-regular-normal-black-pearl-16px {
+  color: var(--black-pearl);
+  font-family: "Rubik-Regular", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rubik-regular-normal-scarpa-flow-14px {
+  color: var(--scarpa-flow-2);
+  font-family: "Rubik-Regular", Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rubik-regular-normal-scarpa-flow-14px-2 {
+  color: var(--scarpa-flow);
+  font-family: "Rubik-Regular", Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rubik-regular-normal-scarpa-flow-16px {
+  color: var(--scarpa-flow);
+  font-family: "Rubik-Regular", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rubik-regular-normal-scarpa-flow-16px-2 {
+  color: var(--scarpa-flow-2);
+  font-family: "Rubik-Regular", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.rubik-regular-normal-scarpa-flow-20px {
+  color: var(--scarpa-flow);
+  font-family: "Rubik-Regular", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --alto: rgba(221, 221, 221, 1);
+  --black-pearl: rgba(11, 19, 42, 1);
+  --bon-jour: rgba(224, 224, 224, 1);
+  --fair-pink: rgba(255, 235, 235, 1);
+  --gallery: rgba(240, 240, 240, 1);
+  --red-orange: rgba(245, 55, 55, 1);
+  --scarpa-flow: rgba(79, 86, 101, 1);
+  --scarpa-flow-2: rgba(78, 86, 100, 1);
+  --sizzling-red: rgba(245, 56, 85, 1);
+}
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+  display: contents;
+}
+.product-156 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0px;
+  line-height: 30px;
+  min-height: 30px;
+  min-width: 83px;
+  pointer-events: auto;
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.product-156:hover {
+  cursor: pointer;
+  opacity: 80%;
+}
+.rubik-medium-black-pearl-18px {
+  color: var(--black-pearl);
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+}
+.rubik-medium-black-pearl-35px {
+  color: var(--black-pearl);
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 500;
+}
+.rubik-regular-normal-scarpa-flow-16px {
+  color: var(--scarpa-flow);
+  font-family: "Rubik", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
