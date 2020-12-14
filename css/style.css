@@ -3,21 +3,6 @@
 * {
   box-sizing: border-box;
 }
-.border-class-3 {
-  border: 2px solid var(--red-orange);
-}
-.border-class-4 {
-  border: 2px solid var(--alto);
-}
-.border-class-5 {
-  border: 1.9px solid var(--gallery);
-}
-.border-class-6 {
-  border: 1.9px solid rgba(226, 226, 226, 1);
-}
-.border-class-7 {
-  border: 1.9px solid rgba(247, 247, 247, 1);
-}
 .landingpage {
   background-color: white;
   height: 5189px;
@@ -3667,4 +3652,19 @@ a {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
+}
+.border-class-3 {
+  border: 2px solid var(--red-orange);
+}
+.border-class-4 {
+  border: 2px solid var(--alto);
+}
+.border-class-5 {
+  border: 1.9px solid var(--gallery);
+}
+.border-class-6 {
+  border: 1.9px solid rgba(226, 226, 226, 1);
+}
+.border-class-7 {
+  border: 1.9px solid rgba(247, 247, 247, 1);
 }
